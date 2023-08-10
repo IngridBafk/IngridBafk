@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ingrid
-![]()
+![Esta es una versión de mi portfolio de prueba](src/img/Fondo.gif.gif)
 
 <!--
 **IngridBafk/IngridBafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
