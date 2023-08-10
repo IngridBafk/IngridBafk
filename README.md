@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ingrid
-![Un fondo que me gusta y que destaca que todos somos y todos manipulamos. En mi caso todo lo que quiero del código](https://www.canva.com/design/DAFgoj_g69s/SHn7ZFxQGFkakpYCqhiHhg/edit)
+![]()
 
 <!--
 **IngridBafk/IngridBafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
