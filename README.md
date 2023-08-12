@@ -60,6 +60,7 @@
 ### Mis estadísticas:
 
 ![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbafk&show_icons=true&theme=radical)
+![Ingrid's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ingridbafk&theme=radical)
 
 ### Lenguajes más utilizados:
 
