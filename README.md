@@ -57,6 +57,9 @@
 ![image.jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![image.notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
 
+### Estadísticas:
+
+![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbafk&show_icons=true&theme=radical)
 
 <!--
 **IngridBafk/IngridBafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
