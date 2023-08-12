@@ -26,7 +26,7 @@
 
 - Programacion  
 ![image.php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image.java]([https://img.shields.io/badge/Java-orange](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=orange&color=orange)  
+![image.java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=orange&color=orange)  
 
 - Base de datos  
 ![image.mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
