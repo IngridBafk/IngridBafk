@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Ingrid
-![Esta es una versión de mi portfolio de prueba](src/img/Fondo.gif.gif)
+```html:
+<marquee>Soy developer web fullstack. Me apasionan el software y la tecnología. Disfruto aprendiendo nuevas formas de mejorar mis habilidades manteniéndome actualizada en las últimas tendencias y prácticas de desarrollo.</marquee>
+```
 
 <!--
 **IngridBafk/IngridBafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
