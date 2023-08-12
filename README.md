@@ -1,6 +1,12 @@
-### Hi there 👋 I am Ingrid
-```html:
-<marquee>Soy developer web fullstack. Me apasionan el software y la tecnología. Disfruto aprendiendo nuevas formas de mejorar mis habilidades manteniéndome actualizada en las últimas tendencias y prácticas de desarrollo.</marquee>
+### 👋 Hola a todos
+```html
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <h1>Soy Ingrid</h1>
+    <p>Y soy developer web fullstack. Me apasionan el software y la tecnología. <br>
+    Disfruto aprendiendo nuevas formas de mejorar mis habilidades manteniéndome actualizada en las últimas tendencias y prácticas de desarrollo.</p>
+  </div>
+</div>
 ```
 
 <!--
