@@ -10,7 +10,7 @@
   </div>
 </div>
 ```
-### Algunas de las tecnologias que he aprendido:
+### :dart: Algunas de las tecnologias que he aprendido:
 - Lenguajes  
 ![image.html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image.css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,12 +58,14 @@
 ![image.jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![image.notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
 
-### Mis estadísticas:
+### :chart_with_upwards_trend: GitHub Stats:
 
 ![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbafk&show_icons=true&theme=merko)
+
+### :stopwatch: Streak Stats:  
 ![Ingrid's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ingridbafk&theme=merko)
 
-### Lenguajes más utilizados:
+### :bar_chart: Most Used Language:
 
 ![Ingrid's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridbafk&theme=merko)
 
