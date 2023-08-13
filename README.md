@@ -1,5 +1,5 @@
 ### 👋 Hola a todos
-![alt text](https://i.gifer.com/5ARz.gif](https://i.gifer.com/2I9J.gif)
+![alt text](https://i.gifer.com/2I9J.gif)
 ```html
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
