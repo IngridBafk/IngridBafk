@@ -1,4 +1,5 @@
 ### 👋 Hola a todos
+![Alt Text](https://i.gifer.com/5ARz.gif)
 ```html
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
@@ -59,12 +60,12 @@
 
 ### Mis estadísticas:
 
-![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbafk&show_icons=true&theme=radical)
-![Ingrid's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ingridbafk&theme=radical)
+![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbafk&show_icons=true&theme=cobalt)
+![Ingrid's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ingridbafk&theme=cobalt)
 
 ### Lenguajes más utilizados:
 
-![Ingrid's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridbafk&theme=radical)
+![Ingrid's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridbafk&theme=cobalt)
 
 <!--
 **IngridBafk/IngridBafk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
